@@ -1,0 +1,23 @@
+{
+    "theme_color": "#e4e4e3",
+    "background_color": "#e4e4e3",
+    "display": "standalone",
+    "scope": "https://ajaygaikwad.in/new/",
+    "start_url": "https://ajaygaikwad.in/new/",
+    "app_name": "Ajay Portfolio",
+    "short_name": "Ajay Portfolio",
+    "description": "Developed by ajay gaikwad",
+    "icons": [
+        {
+            "src": "https://ajaygaikwad.in/myimages/ajay_grad_bg.jpg",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+
+        {
+            "src": "https://ajaygaikwad.in/myimages/ajay_grad_bg.jpg",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
